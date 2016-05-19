@@ -3,8 +3,7 @@
   */
 
 
-
-import org.scalatest.{Matchers, FreeSpec, GivenWhenThen}
+import org.scalatest.{FreeSpec, GivenWhenThen, Matchers}
 
 class MyTest extends FreeSpec with GivenWhenThen with Matchers{
 
